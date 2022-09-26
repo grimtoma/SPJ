@@ -17,3 +17,6 @@ deps/src/
 docs/build/
 docs/site/
 
+# zipped files for BRUTE system
+*.zip
+

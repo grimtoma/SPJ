@@ -36,9 +36,10 @@ end
 A = x -> circlemat(x)
 
 
-f = x -> I + A(x) + A(x)^2 + A(x)^3
+#f = x -> I + A(x) + A(x)^2 + A(x)^3
 
 A(10)
+
 polynomial([1 1 1 1],A(10))
 
 graphplot(A(10))
