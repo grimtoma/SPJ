@@ -20,3 +20,5 @@ docs/site/
 # zipped files for BRUTE system
 *.zip
 
+# VS Code settings
+.vscode
